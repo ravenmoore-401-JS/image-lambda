@@ -1,0 +1,24 @@
+{
+  "name": "thumb-save",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "sharp": "^0.27.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravenmoore-401-JS/thumb-save.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravenmoore-401-JS/thumb-save/issues"
+  },
+  "homepage": "https://github.com/ravenmoore-401-JS/thumb-save#readme"
+}
